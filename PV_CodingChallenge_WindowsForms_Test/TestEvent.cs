@@ -6,6 +6,7 @@ namespace PV_Event
     [TestClass]
     public class TestEvent
     {
+        //TEST THE PROCESSING AND OUTPUT OF THE REGISTER EVENT TYPE
         [TestMethod]
         public void TestEventType_Register()
         {
@@ -27,6 +28,7 @@ namespace PV_Event
             Assert.IsTrue(string.Equals(TestOutput, ExpectedOutput));
         }
 
+        //TEST THE PROCESSING AND OUTPUT OF THE DIAGNOSE EVENT TYPE
         [TestMethod]
         public void TestEventType_Diagnose()
         {

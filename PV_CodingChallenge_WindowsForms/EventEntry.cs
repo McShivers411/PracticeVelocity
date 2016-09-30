@@ -22,7 +22,7 @@ namespace PV_CodingChallenge_WindowsForms
 
         private void btnOK_Click(object sender, EventArgs e)
         {
-            var currentEvent = new Event(1, "My Event", cmbEventType.SelectedItem.ToString());
+            Event currentEvent = new Event(1, "My Event", cmbEventType.SelectedItem.ToString());
 
             txtOutput.Text = currentEvent.Process();
         }

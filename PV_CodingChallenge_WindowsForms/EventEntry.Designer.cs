@@ -85,6 +85,7 @@
             // 
             // cmbEventType
             // 
+            this.cmbEventType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbEventType.FormattingEnabled = true;
             this.cmbEventType.Location = new System.Drawing.Point(80, 22);
             this.cmbEventType.Name = "cmbEventType";

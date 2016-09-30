@@ -1,5 +1,6 @@
 ﻿namespace PV_Event
 {
+    //THIS CLASS DEFINES THE "EVENT" OBJECT
     public class Event : IEvent
     {
         //CONSTRUCTORS
