@@ -1,5 +1,0 @@
-C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\EventFactory\bin\Debug\EventFactory.dll
-C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\EventFactory\bin\Debug\EventFactory.pdb
-C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\EventFactory\obj\Debug\PV_EventFactory.csprojResolveAssemblyReference.cache
-C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\EventFactory\obj\Debug\EventFactory.dll
-C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\EventFactory\obj\Debug\EventFactory.pdb
