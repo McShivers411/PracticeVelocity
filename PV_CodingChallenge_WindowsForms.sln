@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PV_Forms", "PV_CodingChallenge_WindowsForms\PV_Forms.csproj", "{6F90723D-5964-4D86-B323-4BFF0F19861A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PV_Tests", "PV_CodingChallenge_WindowsForms_Test\PV_Tests.csproj", "{E30AA36D-C6BB-4A76-B30B-A5F091837273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PV_Event", "PV_EventTypes\PV_Event.csproj", "{F582812A-19D4-4B1E-922F-EFC2F89BA179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F90723D-5964-4D86-B323-4BFF0F19861A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F90723D-5964-4D86-B323-4BFF0F19861A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F90723D-5964-4D86-B323-4BFF0F19861A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F90723D-5964-4D86-B323-4BFF0F19861A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30AA36D-C6BB-4A76-B30B-A5F091837273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30AA36D-C6BB-4A76-B30B-A5F091837273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30AA36D-C6BB-4A76-B30B-A5F091837273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30AA36D-C6BB-4A76-B30B-A5F091837273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F582812A-19D4-4B1E-922F-EFC2F89BA179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F582812A-19D4-4B1E-922F-EFC2F89BA179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F582812A-19D4-4B1E-922F-EFC2F89BA179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F582812A-19D4-4B1E-922F-EFC2F89BA179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

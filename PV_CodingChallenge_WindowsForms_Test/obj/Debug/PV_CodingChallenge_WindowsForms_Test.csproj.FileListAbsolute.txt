@@ -1,0 +1,6 @@
+c:\users\chase\documents\visual studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_CodingChallenge_WindowsForms_Test\bin\Debug\PV_CodingChallenge_WindowsForms_Test.dll
+c:\users\chase\documents\visual studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_CodingChallenge_WindowsForms_Test\bin\Debug\PV_CodingChallenge_WindowsForms_Test.pdb
+c:\users\chase\documents\visual studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_CodingChallenge_WindowsForms_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\chase\documents\visual studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_CodingChallenge_WindowsForms_Test\obj\Debug\PV_CodingChallenge_WindowsForms_Test.csprojResolveAssemblyReference.cache
+c:\users\chase\documents\visual studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_CodingChallenge_WindowsForms_Test\obj\Debug\PV_CodingChallenge_WindowsForms_Test.dll
+c:\users\chase\documents\visual studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_CodingChallenge_WindowsForms_Test\obj\Debug\PV_CodingChallenge_WindowsForms_Test.pdb

@@ -1,0 +1,10 @@
+C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_EventTypes\bin\Debug\PV_EventTypes.dll
+C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_EventTypes\bin\Debug\PV_EventTypes.pdb
+C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_EventTypes\obj\Debug\PV_EventTypes.dll
+C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_EventTypes\obj\Debug\PV_EventTypes.pdb
+C:\Users\chase\Documents\Visual Studio 2015\Projects\PV_CodingChallenge_WindowsForms\PV_EventTypes\obj\Debug\PV_Event.csprojResolveAssemblyReference.cache
+C:\Users\chase\Documents\GitHub\PracticeVelocity\PV_EventTypes\bin\Debug\PV_EventTypes.dll
+C:\Users\chase\Documents\GitHub\PracticeVelocity\PV_EventTypes\bin\Debug\PV_EventTypes.pdb
+C:\Users\chase\Documents\GitHub\PracticeVelocity\PV_EventTypes\obj\Debug\PV_Event.csprojResolveAssemblyReference.cache
+C:\Users\chase\Documents\GitHub\PracticeVelocity\PV_EventTypes\obj\Debug\PV_EventTypes.dll
+C:\Users\chase\Documents\GitHub\PracticeVelocity\PV_EventTypes\obj\Debug\PV_EventTypes.pdb
